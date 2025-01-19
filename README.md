@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @System625
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web design
-- 📫 How to reach me IG @ita_miyo_
+# 👋 Hello World, I'm System625!
+
+## 💻 Frontend Developer | Web Enthusiast
+
+I craft engaging user experiences and bring designs to life through code. 
+
+### 🛠️ Tech Stack
+- HTML5 | CSS3 | JavaScript | Typescript
+- TailwindCSS
+- React.js
+- Nextjs
+- Web Design
+- Responsive Development
+
+### 🌱 Currently
+- Expanding my web development skills
+- Contributing to open-source projects
+- Building responsive and accessible web applications
+
+### 🤝 Let's Connect
+- Instagram: [@ita_miyo_](https://www.instagram.com/ita_miyo_)
+---
+⭐️ *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 <!---
 System625/System625 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
