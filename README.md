@@ -17,8 +17,6 @@ I craft engaging user experiences and bring designs to life through code.
 - Contributing to open-source projects
 - Building responsive and accessible web applications
 
-### 🤝 Let's Connect
-- Instagram: [@ita_miyo_](https://www.instagram.com/ita_miyo_)
 ---
 ⭐️ *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
